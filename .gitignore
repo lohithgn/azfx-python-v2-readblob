@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Azurite
+__azurite_db_*
+__blobstorage__*
